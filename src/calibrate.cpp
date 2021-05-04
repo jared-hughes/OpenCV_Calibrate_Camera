@@ -1,5 +1,3 @@
-/* SOURCE FROM https://learnopencv.com/camera-calibration-using-opencv/ */
-
 #include <opencv2/opencv.hpp>
 #include <opencv2/calib3d.hpp>
 #include <opencv2/highgui.hpp>
